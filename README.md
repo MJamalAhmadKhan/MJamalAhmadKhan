@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Muhammad Jamal Ahmad Khan, a BS Computer Science student in my 3rd semester at Namal University. I have a strong foundation in programming with hands-on experience in C, C++, Python, HTML, CSS, Java, and Assembly, with particular strength in C++ and Data Structures & Algorithms.<br><br>I also possess foundational knowledge of Software Engineering, especially in Requirements Engineering and System Design, and I am actively working to strengthen my practical and problem-solving skills through continuous learning and projects.<br><br>I am fluent in English and Urdu, with strong communication skills, and I am passionate about learning new technologies, collaborating on meaningful projects, and growing both technically and professionally within the software development community.
+I am Muhammad Jamal Ahmad Khan, a BS Computer Science student in my 3rd semester at Namal University. I have a strong foundation in programming with hands-on experience in C, C++, Python, HTML, CSS, Java, and Assembly,SQL, with particular strength in C++,SQL,TSQLand Data Structures & Algorithms.<br><br>I also possess foundational knowledge of Software Engineering, especially in Requirements Engineering and System Design, and I am actively working to strengthen my practical and problem-solving skills through continuous learning and projects.<br><br>I am fluent in English and Urdu, with strong communication skills, and I am passionate about learning new technologies, collaborating on meaningful projects, and growing both technically and professionally within the software development community.
 
 
 ## 🌐 Socials:
@@ -15,4 +15,4 @@ I am Muhammad Jamal Ahmad Khan, a BS Computer Science student in my 3rd semester
 ---
 [![](https://visitcount.itsvg.in/api?id=MJamalAhmadKhan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
